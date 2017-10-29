@@ -1,0 +1,1 @@
+"./main.obj" "./driver/adc.obj" "./driver/io.obj" "./driver/lcd.obj" "./driver/timer.obj" "./handle/calc.obj" "./handle/display.obj" "./handle/system.obj" "../lnk_msp430f5529.cmd" 
